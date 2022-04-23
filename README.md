@@ -5,7 +5,8 @@
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 ## Important information
-According to sileshn, This EFI supports only MacOS versions catalina(10.15) and higher. so it doesn't work on Mojave and High Sierra.
+First, all of these images are not mine, but instead they are from sileshn. they shall be changed soon ig. 
+Anyway, according to sileshn, This EFI supports only MacOS versions catalina(10.15) and higher. so it doesn't work on Mojave and High Sierra.
 
 <a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='http://postimg.cc/PCfByjhR' target='_blank'><img src='https://i.postimg.cc/PCfByjhR/Screenshot-2022-03-15-at-9.png' border='0' alt='Screenshot-2022-03-15-at-9'/></a> <a href='http://postimg.cc/JyLGWKYF' target='_blank'><img src='https://i.postimg.cc/JyLGWKYF/Screen-Shot-2022-04-20-at-2.png' border='0' alt='Screen-Shot-2022-04-20-at-2'/></a>
 
