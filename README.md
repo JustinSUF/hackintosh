@@ -5,26 +5,25 @@
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 ## Important information
-This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
+According to sileshn, This EFI supports only MacOS versions catalina(10.15) and higher. so it doesn't work on Mojave and High Sierra.
 
 <a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='http://postimg.cc/PCfByjhR' target='_blank'><img src='https://i.postimg.cc/PCfByjhR/Screenshot-2022-03-15-at-9.png' border='0' alt='Screenshot-2022-03-15-at-9'/></a> <a href='http://postimg.cc/JyLGWKYF' target='_blank'><img src='https://i.postimg.cc/JyLGWKYF/Screen-Shot-2022-04-20-at-2.png' border='0' alt='Screen-Shot-2022-04-20-at-2'/></a>
 
 ## Disclaimer
-Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
+Use at your own risk. I take no responsiblity if your turns into a fireball or ends up hacking the government. Create unique SMBios values for your computer. Don't steal mine. Thanks.
 
 ## Specification
 
 | Component        | Model                                              |
 | ---------------- | ---------------------------------------------------|
-| CPU              | AMD Ryzen 7 2700                                   |
-| MotherBoard      | Gigabyte B450 Aorus Elite                          |
-| Wifi/Bluetooth   | Asus AX3000 Dual Band PCI-E WiFi 6 / Bluetooth 5.0 |
-| OS Disk          | Gigabyte NVME GP-GSM2NE3256GNTD 256gb              |
-| RAM              | 4x 8gb Corsair Vengeance Pro 32GB Ram              |
-| GPU              | AMD Radeon RX570 4gb                               |
-| Cooler    	   | Cooler master hyper 410r          		            |
+| CPU              | AMD Ryzen 5 2600x                                  |
+| MotherBoard      | Gigabyte B450 Aorus Pro Wifi                       |
+| Wifi/Bluetooth   | Intel(R) Dual Band Wireless-AC 3168                |
+| OS Disk          | HGST 1TB 5400RPM Laptop drive, yeah i know its awful but its all i got rn. ok?
+| RAM              | 4x 8GB TForce smth which comes out to be 32gb      |
+| GPU              | XFX AMD Radeon RX 580 8 GB                         |
 
-## Working
+## Working (according to sileshn)
 
 * iCloud
 * Bluetooth
@@ -32,7 +31,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Wifi
 * iServices & drm
 
-## Not Working ( only ones I have tried, there may be more )
+## Not Working (also according to sileshn)
 
 * Sleep ( on Monterey )
 * Sidecar
@@ -53,7 +52,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
+I have Monterey and Windows 10 Dual Booted.
 
 [![10022018.png](https://i.postimg.cc/TwDYkvGy/10022018.png)](https://postimg.cc/cgdSHjvZ)
 
@@ -63,3 +62,4 @@ I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur &
 * [Hackintool](https://www.hackintosh-forum.de/forum/thread/38316-hackintool-ehemals-intel-fb-patcher)
 * [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 * [OpenCore-Legacy-Patcher guide](https://dortania.github.io/OpenCore-Legacy-Patcher)
+* [Original Github](https://github.com/sileshn/Ryzentosh)
